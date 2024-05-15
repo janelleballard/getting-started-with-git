@@ -1,1 +1,3 @@
-teams.txt
+Hopper Hawks
+The Lovelace Lynxs
+Turing's Tigers
